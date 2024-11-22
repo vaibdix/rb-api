@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+.env
+
+# Project specific
+.ropeproject/
+documents/
+*.log
+
+# IDE
+.vscode/
+.idea/
+
+# Docker
+.docker/
+docker-compose.override.yml
+
+.DS_Store

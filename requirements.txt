@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+pymongo
+python-multipart
+pydantic
+pillow
+pytesseract
+pdfplumber
+jinja2
